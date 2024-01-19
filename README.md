@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=ayeagle&color=green)
+![](https://komarev.com/ghpvc/?username=ayeagle&color=blueviolet)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayeagle&theme=tokyonight&mode=weekly&card_width=467)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeagle&show_icons=true&theme=tokyonight)
