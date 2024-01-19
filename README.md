@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=ayeagle&color=blueviolet)
 
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flexbox; flex-direction: row;">
 <!--   <div style="display: box; flex-direction: column;"> -->
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
