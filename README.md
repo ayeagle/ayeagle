@@ -15,7 +15,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <!--   </div> -->
-  <div>
+  <div align="center">
     <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=ayeagle&theme=tokyonight&mode=weekly&card_width=467" alt="GitHub Streak" />
     </a>
