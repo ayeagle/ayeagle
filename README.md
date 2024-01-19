@@ -22,7 +22,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ayeagle&theme=tokyonight&mode=weekly&card_width=467" alt="GitHub Streak" />
   </a>
 
-
+<br/>
   <img src="https://github-readme-stats.vercel.app/api?username=ayeagle&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 
 </div>
