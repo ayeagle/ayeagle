@@ -2,8 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=ayeagle&color=blueviolet)
 
-<div >
-  <div style="display: none; flex-direction: column; align:center;">
+
+  <div>
+  <div>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -42,6 +44,8 @@
 Here are some ideas to get you started:
 
 
+<div style="display: flexbox; flex-direction: column;">
+  <div style="display: none; flex-direction: column; align:center;">
 
 
 
