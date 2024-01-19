@@ -4,7 +4,6 @@
 
   <div style="display: flex; flex-direction: row;">
 <div>
-  
   - 🔭 I’m...
 - 🌱 I’m curre.
 - 👯 I’m looking to.
