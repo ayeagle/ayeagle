@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ayeagle&color=blueviolet)
 
-<div display="flex" flex-direction="row">
+  <div style="display: flex;">
 <div>
   
   - 🔭 I’m currently working on ...
