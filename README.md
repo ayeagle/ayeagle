@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=ayeagle&color=blueviolet)
 
 
-  <div align="center">
+  <div >
   <div>
 
 - 🔭 I’m currently working on ...
