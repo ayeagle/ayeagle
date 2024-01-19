@@ -4,7 +4,7 @@
 
 
 
-  <div >
+<div style="display: flexbox; flex-direction: column; color: red;">
   <div>
 
 - 🔭 I’m currently working on ...
