@@ -18,16 +18,12 @@
 
 <div>
 
-<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ayeagle&theme=tokyonight&mode=weekly&card_width=467" alt="GitHub Streak" />
   </a>
-</p>
 
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayeagle&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
 
 </div>
 </div>
