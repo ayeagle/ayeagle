@@ -3,18 +3,15 @@
 ![](https://komarev.com/ghpvc/?username=ayeagle&color=blueviolet)
 
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayeagle&theme=tokyonight&mode=weekly&card_width=467)](https://git.io/streak-stats)
-  </p>
-
-
-<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ayeagle&theme=tokyonight&mode=weekly&card_width=467" alt="GitHub Streak" />
   </a>
 </p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeagle&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayeagle&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
