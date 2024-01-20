@@ -1,15 +1,14 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=ayeagle&color=blueviolet)
 
+- SF based
 - Fullstack/server eng @ Meta
 - Currently working on Instagram Lead Generation
 - Previously supported Facebook Community Messaging and Design Systems Infrastructure
 - In my free time working on:
   - Alpaca stock trading APIs
   - Web scraping/interactions with Beautiful Soup, Selenium, Playright
-
-
-![](https://komarev.com/ghpvc/?username=ayeagle&color=blueviolet)
 
 <div style="display: flexbox; flex-direction: column; color: red; justify-content: right;">
   <div>
