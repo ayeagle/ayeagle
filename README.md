@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=ayeagle&color=blueviolet)
+  <div align="center">
 
 - SF based
 - Fullstack/server eng @ Meta
@@ -10,10 +11,11 @@
   - Alpaca stock trading APIs
   - Web scraping/interactions with Beautiful Soup, Selenium, Playright
   - Bash scripts for automating parts of my life
+</div>
 
 <div style="display: flexbox; flex-direction: column; color: red; justify-content: right;">
   <div>
-  <div align="left">
+  <div align="center">
     <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=ayeagle&theme=tokyonight&mode=weekly&card_width=467" alt="GitHub Streak" />
     </a>
