@@ -9,6 +9,7 @@
 - In my free time working on:
   - Alpaca stock trading APIs
   - Web scraping/interactions with Beautiful Soup, Selenium, Playright
+  - Bash scripts for automating parts of my life
 
 <div style="display: flexbox; flex-direction: column; color: red; justify-content: right;">
   <div>
