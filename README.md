@@ -4,8 +4,8 @@
   <div align="center">
   <div align="left">
 
-- SF based
 - Fullstack/server eng @ Meta
+- Self taught but you'd never know ;)
 - Currently working on Instagram Lead Generation
 - Previously supported Facebook Community Messaging and Design Systems Infrastructure
 - In my free time working on:
@@ -25,6 +25,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ayeagle&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   </div>
 </div>
+
+  
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
