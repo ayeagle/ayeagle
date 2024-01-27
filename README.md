@@ -4,7 +4,7 @@
   <div align="center">
   <div align="left">
 
-- 🥞 Fullstack/server eng @ Meta
+- 🥞 Fullstack/ 📦 server eng @ Meta
 - Self taught but you'd never know 😉
 - Currently working on Instagram Lead Generation
 - Previously supported Facebook Community Messaging and Design Systems Infrastructure
