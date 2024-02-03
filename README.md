@@ -11,7 +11,7 @@
 - At work I'm building:
   - 🏗️ Server architecture for Lead Generation services
   - 📊 Dataswarm (Apache Spark) pipelines and postgres data analysis
-  - 📱 Learning Obj C and Swift for iOS fullstack work
+  - 📱 Learning Obj C and Swift for iOS features
 - In my free time working on:
   - 📉 Alpaca stock trading APIs
   - ⛏️ Web scraping/interactions with Beautiful Soup, Selenium, Playright
