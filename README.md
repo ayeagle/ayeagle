@@ -3,9 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=ayeagle&color=blueviolet)
   <div align="center">
   <div align="left">
-
-- 🥞 Fullstack/ 📦 server eng @ Meta
-- Self taught but you'd never know 😉
+- Server eng @ Meta
 - Currently working on Instagram Lead Generation
 - Previously supported Facebook Community Messaging and Design Systems Infrastructure
 - At work I'm building:
