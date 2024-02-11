@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=ayeagle&color=blueviolet)
 <div align="center">
-  <div align="left">
+<div align="left">
 - Server eng @ Meta
 - Currently working on Instagram Lead Generation
 - Previously supported Facebook Community Messaging and Design Systems Infrastructure
@@ -13,7 +13,7 @@
   - 📉 Alpaca stock trading APIs
   - ⛏️ Web scraping/interactions with Beautiful Soup, Selenium, Playright
   - 🧘 Bash scripts for automating parts of my life
-  </div>
+</div>
 </div>
 
 <div style="display: flexbox; flex-direction: column; color: red; justify-content: right;">
