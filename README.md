@@ -5,7 +5,7 @@
 <div align="left">
   
   - Server eng @ Meta
-  - Currently working on Instagram Lead Generation
+  - Currently working on Instagram Lead Generation for Businesses
   - Previously supported Facebook Community Messaging and Design Systems Infrastructure
   - At work I'm building:
     - 🏗️ Server architecture for Lead Generation services
