@@ -8,11 +8,12 @@
   - Currently working on Instagram Lead Generation for Businesses
   - Previously supported Facebook Community Messaging and Design Systems Infrastructure
   - At work I'm building:
-    - 🏗️ Server architecture for Lead Generation services
-    - 📊 Dataswarm (Apache Spark) pipelines and postgres data analysis
-    - 📱 Learning Obj C and Swift for iOS features
+    - 🏗️ Server architecture for Lead Generation services (PHP/Hack, Python)
+    - 📊 Dataswarm (Apache Spark) pipelines and postgres data analysis (Presto, Python)
+    - 📱 Learning iOS development (Obj C, Swift)
   - In my free time working on:
-    - 📉 Alpaca stock trading APIs
+    - 💳 Credit card benefits lookup service (Go, AWS, Typescript, React)
+    - 📉 Alpaca stock trading APIs (Python, AWS, Alpaca API)
     - ⛏️ Web scraping/interactions with Beautiful Soup, Selenium, Playright
     - 🧘 Bash scripts for automating parts of my life
 </div>
