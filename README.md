@@ -12,6 +12,7 @@
     - 📊 Dataswarm (Apache Spark) pipelines and postgres data analysis (Presto, Python)
     - 📱 Learning iOS development (Obj C, Swift)
   - In my free time working on:
+    - 🤨 Trivia paid API + web app (Go, AWS, Python, Typescript, React)
     - 💳 Credit card benefits lookup service (Go, AWS, Typescript, React)
     - 📉 Alpaca stock trading APIs (Python, AWS, Alpaca API)
     - ⛏️ Web scraping/interactions with Beautiful Soup, Selenium, Playright
