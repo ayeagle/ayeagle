@@ -8,7 +8,7 @@
   - Currently working on Instagram Lead Generation for Businesses
   - Previously supported Facebook Community Messaging and Design Systems Infrastructure
   - At work I'm building:
-    - 🏗️ Server architecture for Lead Generation services (PHP/Hack, Python)
+    - 🏗️ Server architecture for Lead Generation services (PHP/Hack, Python, C++)
     - 📊 Dataswarm (Apache Spark) pipelines and postgres data analysis (Presto, Python)
     - 📱 Learning iOS development (Obj C, Swift)
   - In my free time working on:
