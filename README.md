@@ -5,18 +5,24 @@
 <div align="left">
   
   - Server eng @ Meta
-  - Currently working on Instagram Lead Generation for Businesses
-  - Previously supported Facebook Community Messaging and Design Systems Infrastructure
+  - Currently working on Instagram Lead Generation Ads
+  - Previously supported Facebook Community Chats and Meta Design Systems Infrastructure
   - At work I'm building:
     - 🏗️ Server architecture for Lead Generation services (PHP/Hack, Python, C++)
-    - 📊 Dataswarm (Apache Spark) pipelines and postgres data analysis (Presto, Python)
-    - 📱 Learning iOS development (Obj C, Swift)
+    - 👨‍🎨 Web features for Meta Ads Manager (React, JS)
+    - 📊 Dataswarm pipelines and postgres data analysis (Apache Spark, Presto, Python)
+   
   - In my free time working on:
-    - 🤨 Trivia paid API + web app (Go, AWS, Python, Typescript, React)
-    - 💳 Credit card benefits lookup service (Go, AWS, Typescript, React)
-    - 📉 Alpaca stock trading APIs (Python, AWS, Alpaca API)
-    - ⛏️ Web scraping/interactions with Beautiful Soup, Selenium, Playright
-    - 🧘 Bash scripts for automating parts of my life
+    - ⭐️ Trivia paid API + free web app (Go, AWS, Python, Typescript, React)
+    - Credit card benefits lookup service (Go, AWS, Typescript, React)
+    - Alpaca stock trading APIs (Python, AWS, Alpaca API)
+    - Web scraping/interactions with Beautiful Soup, Selenium, Playright
+    - Bash scripts for automating parts of my life
+   
+  - Previous Projects
+    - ⭐️ Giftee, a fullstack web app for organizing gift exchanges with friends and family
+    - Subtrader, Reddit post stock trading game for 2024 Devvit Hackathon
+    - Flytrap, a chrome extension to automatically inject domains into email signups to track spam and data sharing
 </div>
 </div>
 
