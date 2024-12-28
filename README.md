@@ -5,8 +5,8 @@
 <div align="left">
   
   - Server eng @ Meta
-  - Currently working on Instagram Lead Generation Ads
-  - Previously supported Facebook Community Chats and Meta Design Systems Infrastructure
+    - Currently working on Instagram Lead Generation Ads
+    - Previously supported Facebook Community Chats and Meta Design Systems Infrastructure
   - At work I'm building:
     - 🏗️ Server architecture for Lead Generation services (PHP/Hack, Python, C++)
     - 👨‍🎨 Web features for Meta Ads Manager (React, JS)
