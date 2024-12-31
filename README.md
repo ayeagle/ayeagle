@@ -23,8 +23,8 @@
     - Subtrader -- Reddit post stock trading game for 2024 Devvit Hackathon (React, Typescript)
     - Flytrap -- chrome extension to automatically inject domains into email signups to track spam and data sharing (React, Typescript)
 </div>
-</div>
 ![](https://komarev.com/ghpvc/?username=ayeagle&color=blueviolet)
+</div>
 <div style="display: flexbox; flex-direction: column; color: red; justify-content: right;">
   <div>
   <div align="left">
