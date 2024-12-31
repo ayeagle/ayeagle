@@ -13,7 +13,7 @@
     - 📊 Dataswarm pipelines and postgres data analysis (Apache Spark, Presto, Python)
    
   - In my free time working on:
-    - ⭐️ Trivia paid API + free web app (Go, AWS, Python, Typescript, React)
+    - ⭐️ TriviaOwls paid API + free web app (Go, AWS, Python, Typescript, React)
     - Credit card benefits lookup service (Go, AWS, Typescript, React)
     - Alpaca stock trading APIs (Python, AWS, Alpaca API)
     - Web scraping/interactions with Beautiful Soup, Selenium, Playright
