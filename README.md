@@ -20,10 +20,10 @@
     - Bash scripts for automating parts of my life
    
   - Previous Projects
-    - ⭐️ Giftee -- fullstack web app for organizing gift exchanges with friends and family
-    - ⭐️ Gitgo -- bash util for lazy engineers to auto commit all changes and open Github commit
-    - Subtrader -- Reddit post stock trading game for 2024 Devvit Hackathon
-    - Flytrap -- chrome extension to automatically inject domains into email signups to track spam and data sharing
+    - ⭐️ Giftee -- fullstack web app for organizing gift exchanges with friends and family (NodeJS, React, Typescript)
+    - ⭐️ Gitgo -- bash util for lazy engineers to auto commit all changes and open Github commit (Bash)
+    - Subtrader -- Reddit post stock trading game for 2024 Devvit Hackathon (React, Typescript)
+    - Flytrap -- chrome extension to automatically inject domains into email signups to track spam and data sharing (React, Typescript)
 </div>
 </div>
 
