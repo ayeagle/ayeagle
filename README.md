@@ -11,7 +11,7 @@
   - At work I'm building...
     - 🏗️ Server architecture for Lead Generation services (PHP/Hack, Python, C++)
     - 👨‍🎨 Web features for Meta Ads Manager (React, JS)
-    - 📊 Dataswarm pipelines and postgres data analysis (Apache Spark, Presto, Python)
+    - 📊 Dataswarm pipelines and postgres data analysis (Many flavors of SQL, Spark, Presto, Python)
    
   - In my free time working on...
     - ⭐️ TriviaOwls paid API + free web app (Go, AWS, Python, Typescript, React)
