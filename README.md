@@ -15,9 +15,9 @@
    
   - In my free time working on...
     - ⭐️ TriviaOwls paid API + free web app (Go, AWS, Python, Typescript, React)
+    - ⭐️ Web-crawling Service (Kubernetes, Playwright, AWS, Go, Typescript)
     - Credit card benefits lookup service (Go, AWS, Typescript, React)
     - Alpaca stock trading APIs (Python, AWS, Alpaca API)
-    - Web scraping/interactions with Beautiful Soup, Selenium, Playright
     - Bash scripts for automating parts of my life
    
   - Previous Projects...
