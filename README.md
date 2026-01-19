@@ -16,15 +16,16 @@
   - In my free time working on...
     - ⭐️ TriviaOwls paid API + free web app (Go, AWS, Python, Typescript, React)
     - ⭐️ Webcrawler bot swarm (Kubernetes, Playwright, AWS, Go, Typescript)
-    - Credit card benefits lookup service (Go, AWS, Typescript, React)
-    - Alpaca stock trading APIs (Python, AWS, Alpaca API)
-    - Bash scripts for automating parts of my life
+    - ⭐️ Homelab configuration (bash)
    
   - Previous Projects...
     - ⭐️ Giftee -- fullstack web app for organizing gift exchanges with friends and family (NodeJS, React, Typescript)
     - ⭐️ Gitgo -- bash util for lazy engineers to auto commit all changes and open Github commit (Bash)
     - Subtrader -- Reddit post stock trading game for 2024 Devvit Hackathon (React, Typescript)
     - Flytrap -- chrome extension to automatically inject domains into email signups to track spam and data sharing (React, Typescript)
+    - Credit card benefits lookup service (Go, AWS, Typescript, React)
+    - Alpaca stock trading APIs (Python, AWS, Alpaca API)
+    - Bash scripts for automating parts of my life
 </div>
 </div>
 <div style="display: flexbox; flex-direction: column; color: red; justify-content: right;">
