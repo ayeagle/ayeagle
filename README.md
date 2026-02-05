@@ -28,14 +28,14 @@
     - Bash scripts for automating parts of my life
 </div>
 </div>
-<div style="display: flexbox; flex-direction: column; color: red; justify-content: right;">
+<!-- <div style="display: flexbox; flex-direction: column; color: red; justify-content: right;">
   <div>
   <div align="left">
     <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=ayeagle&theme=tokyonight&mode=weekly&card_width=467" alt="GitHub Streak" />
     </a>
   <br/>
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=ayeagle&show_icons=true&theme=tokyonight" alt="GitHub stats" /> -->
+    <img src="https://github-readme-stats.vercel.app/api?username=ayeagle&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   </div>
-</div>
+</div> -->
 
